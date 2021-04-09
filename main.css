@@ -27,16 +27,16 @@ img {
     margin-right: auto;
     max-height: 100%;
     max-width: 100%;
-    height: auto;
-    width: auto;
+    height: 93;
+    width: 238;
     object-fit: contain;
 }
 
 img.profile-pic {
-	height: 70%;
-	width: 50%;
+	height: 100%;
+	width: 100%;
 	object-fit: cover;
-	border-radius: 50%;
+	border-radius: 100%;
 }
 
 .container {
